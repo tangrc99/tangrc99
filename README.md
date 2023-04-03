@@ -5,4 +5,6 @@
 
 I'm a back-end developer
 
+Languages: C++, Golang
+
 My Website: [https://tangrc99.com](https://tangrc99.com)
