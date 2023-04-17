@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-I'm a back-end developer
+I'm a back-end developer, interest in network, database and linux.
 
-Languages: C++, Golang
+Languages: C++, Golang.
 
 My Website: [https://tangrc99.com](https://tangrc99.com)
