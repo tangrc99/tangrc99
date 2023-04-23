@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm a back-end developer, interest in network, database and linux.
+I'm a back-end developer, interested in network, database and linux.
 
 Languages: C++, Golang.
 
