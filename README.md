@@ -5,6 +5,8 @@
 
 I'm a back-end developer, interested in network, database and linux.
 
+Now working in database.
+
 Languages: C/C++, Golang.
 
 My Website: [https://tangrc99.com](https://tangrc99.com)
